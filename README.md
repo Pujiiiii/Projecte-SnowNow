@@ -4,7 +4,6 @@
 > Projecte acadèmic per a l'assignatura de **Sistemes de Gestió de Bases de Dades (SGBD)**. 
 
 ---
-HOLA A TOTHOM
 
 ## 📌 1. Resum Executiu del Projecte
 
